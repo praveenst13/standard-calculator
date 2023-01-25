@@ -131,7 +131,7 @@ Validate the HTML and CSS code.
 ```
 
 ## OUTPUT:
-![eig][cal.png]
+![eig](cal.png)
 
 ## Result:
 The output for calculator is displayed successfully. 
